@@ -1,6 +1,7 @@
 # FaceDetection/Recognition_HaarCascade
 Welcome to the Face Detection/Recognition repository! This project utilizes OpenCV's Haar Cascade model to detect and recognize faces in images and videos.
 
+
 Repository Structure:
 
 1. InputFolderForImageAndVideoFiles: This folder contains the input images and videos on which you want to perform face detection and recognition.
