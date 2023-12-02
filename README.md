@@ -3,6 +3,7 @@ Welcome to the Face Detection/Recognition repository! This project utilizes Open
 
 Repository Structure:
 
+
 1. InputFolderForImageAndVideoFiles: This folder contains the input images and videos on which you want to perform face detection and recognition.
 
 2. OutputFolder: The output of the code will be saved in this folder. It includes annotated images/videos with detected faces.
